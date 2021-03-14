@@ -11,6 +11,8 @@ I want to mention that all the post request are failing and is not passing, prob
 
 Also the last test form PUT is failed because I thing that is a bug, because we are able to update the post with userId for which the postId is not existing.
 
+I try to add my test in the circle ci tool, but I am not sure for which reason they are not building. I try to fix that but I didn't succed unfortunatly. 
+
 Feel free to take a look on my solution and if you have further question I am here to discuss. 
 
 Enjoy, 
